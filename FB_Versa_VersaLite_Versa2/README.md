@@ -1,5 +1,5 @@
 # Dream Clock: Fitbit OS4 devices Setup
-## Versa, Versa Lite, Versa 2
+### Versa, Versa Lite, Versa 2
 
 Developer environment and build guide. Although not required, this guide assumes the use of Visual Studio Code. 
 
@@ -17,4 +17,4 @@ Developer environment and build guide. Although not required, this guide assumes
 12. In the Fitbit OS Simulator under the **Settings** tab, under **General** open the **Device Type** menu, and select either Versa, Versa Lite, or Versa 2. 
 13. Return to the terminal and run the command `bi`. This will create a new build and install it into the simulator and run the clock-face. 
 
-![screenshot](Screenshot.png)
+![screenshot](dream-clock/Screenshot.png)
